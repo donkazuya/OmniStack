@@ -13,7 +13,6 @@ export default function Routes() {
                 <Route path="/dashboard" component={Dashboard} />
                 <Route path="/new" component={New} />
             </Switch>
-
         </BrowserRouter>
     );
 }
